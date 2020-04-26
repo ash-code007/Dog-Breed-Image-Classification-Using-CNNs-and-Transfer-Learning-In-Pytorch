@@ -51,7 +51,7 @@ The Model acheived a Test Accuracy of 76% when Trained using a Pre-Trained VGG16
 Download the project materials from the GitHub repository by using the Download  option or Clone the github repository.After Dowloading or Cloning Navigate to the Home Folder of the Project.
 
 ```
-https://github.com/chaithanya21/Dog-Breed-Image-Classification-Using-CNNs-and-Transfer-Learning-In-Pytorch.git
+https://github.com/ash-code007/Dog-Breed-Image-Classification-Using-CNNs-and-Transfer-Learning-In-Pytorch.git
 cd Dog-Breed-Image-Classification-Using-CNNs-and-Transfer-Learning-In-Pytorch
 ```
 Run the following to open up the notebook server:jupyter notebook
